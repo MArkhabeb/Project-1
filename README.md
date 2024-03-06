@@ -1,6 +1,5 @@
 # project-1
 
-#### Team Swift: Lucas Monaco, Diya Patel, Janki Patel, Mark Habeb
 This project is exploring Taylor Swift's music, as reported by Spotify. Data was pulled from the Spotify API and includes values for features of music that Spotify defines. We will be exploring the relationship between some of these metrics, trying to find a predictor for what makes a song popular, and looking at any potential differences in popularity between original and re-released albums. 
 <br> The research questions this project explores are: 
 1. Is there any relationship/correlation between tempo and valence (musical positiveness)? 
